@@ -54,8 +54,8 @@ footer-links:
   #twitter: frommidworld
   youtube:
 
-# Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+# 显示在页脚的文字
+footer-text: Copyright (c) 2013 黑川黑落
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
