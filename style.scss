@@ -437,6 +437,21 @@ nav {
   }
 }
 
+
+/* 在 assets/css/style.scss 文件中添加以下内容 */
+.spoiler {
+  background-color: black;
+  color: black;
+  border-radius: 5px;
+  padding: 0 5px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+.spoiler:hover {
+  color: white;
+}
+
+
 // Posts
 
 .posts{
