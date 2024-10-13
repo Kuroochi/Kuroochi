@@ -42,15 +42,15 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h5 {
   font-weight: bold;
 }
 
 h1 {
   font-size: 30px;
+  border-bottom: 1px solid #d3d3d3; /* 添加2px黑色实线作为下边框 */
   a {
     color: inherit;
-    border-bottom: 1px solid #d3d3d3; /* 添加2px黑色实线作为下边框 */
   }
 }
 
