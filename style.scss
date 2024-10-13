@@ -55,6 +55,8 @@ h1 {
 
 h2 {
   font-size: 24px;
+  border-bottom: 2px solid #000; /* 添加2px黑色实线作为下边框 */
+  padding-bottom: 5px; /* 为标题和下边框之间增加间距 */
 }
 
 h3 {
