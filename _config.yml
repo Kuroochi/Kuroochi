@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: Ov23liTrwALK0xL1hXvY
+  clientSecret: 48e601f8d78d0dc2fca2510f11309dc844e91492
+  repo: https://kuroochi.github.io/Kuroochi/
+  owner: Kuroochi
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
